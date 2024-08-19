@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|c:\\users\\ibrahim arabaci\\onedrive\\desktop\\equipmentlisttable\\formsavingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:formsavingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\forminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:forminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|c:\\users\\ibrahim arabaci\\onedrive\\desktop\\equipmentlisttable\\forminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:forminventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\localization.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:localization.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\formsavingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:formsavingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\localization.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F44935AA-75DA-4742-87E7-075DBDB4014A}|EquipmentListTable.csproj|solutionrelative:localization.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInventoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormInventoryManagement.cs",
+              "RelativeDocumentMoniker": "FormInventoryManagement.cs",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormInventoryManagement.cs",
+              "RelativeToolTip": "FormInventoryManagement.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:35:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Localization.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\Localization.en-US.resx",
+              "RelativeDocumentMoniker": "Localization.en-US.resx",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\Localization.en-US.resx",
+              "RelativeToolTip": "Localization.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-30T05:30:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Localization.tr-TR.resx",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\Localization.tr-TR.resx",
+              "RelativeDocumentMoniker": "Localization.tr-TR.resx",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\Localization.tr-TR.resx",
+              "RelativeToolTip": "Localization.tr-TR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-30T05:02:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInventoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormInventoryManagement.cs",
+              "RelativeDocumentMoniker": "FormInventoryManagement.cs",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormInventoryManagement.cs [Design]",
+              "RelativeToolTip": "FormInventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:35:29.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSavingEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormSavingEquipment.cs",
+              "RelativeDocumentMoniker": "FormSavingEquipment.cs",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormSavingEquipment.cs",
+              "RelativeToolTip": "FormSavingEquipment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:28:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSavingEquipment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormSavingEquipment.cs",
+              "RelativeDocumentMoniker": "FormSavingEquipment.cs",
+              "ToolTip": "C:\\Users\\Ibrahim Arabaci\\OneDrive\\Desktop\\EquipmentListTable\\FormSavingEquipment.cs [Design]",
+              "RelativeToolTip": "FormSavingEquipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:27:07.346Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

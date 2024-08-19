@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="about" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="borrower" xml:space="preserve">
+    <value>Alan Kişi</value>
+  </data>
+  <data name="calibratable" xml:space="preserve">
+    <value>Kalibre Edilebilir</value>
+  </data>
+  <data name="calibrationDate" xml:space="preserve">
+    <value>Kalibre Tarihi</value>
+  </data>
+  <data name="clear" xml:space="preserve">
+    <value>TEMİZLE</value>
+  </data>
+  <data name="comment" xml:space="preserve">
+    <value>Yorum</value>
+  </data>
+  <data name="created" xml:space="preserve">
+    <value>Oluşturuldu</value>
+  </data>
+  <data name="createdBy" xml:space="preserve">
+    <value>Oluşturan</value>
+  </data>
+  <data name="dedicatedToProject" xml:space="preserve">
+    <value>Atandığı Proje</value>
+  </data>
+  <data name="defaultLocation" xml:space="preserve">
+    <value>Varsayılan Konum</value>
+  </data>
+  <data name="equipment" xml:space="preserve">
+    <value>EKİPMAN</value>
+  </data>
+  <data name="equipmentName" xml:space="preserve">
+    <value>Ekipman Adı</value>
+  </data>
+  <data name="equipmentRegistrationSystem" xml:space="preserve">
+    <value>EKİPMAN KAYIT SİSTEMİ</value>
+  </data>
+  <data name="equipmentType" xml:space="preserve">
+    <value>Ekipman Tipi</value>
+  </data>
+  <data name="exit" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="faultDescription" xml:space="preserve">
+    <value>Hata Tanımı</value>
+  </data>
+  <data name="file" xml:space="preserve">
+    <value>Dosya</value>
+  </data>
+  <data name="filter" xml:space="preserve">
+    <value>Lütfen aramak için yazınız...</value>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value>Yardım</value>
+  </data>
+  <data name="historyHyperlink" xml:space="preserve">
+    <value>Geçmiş Linki</value>
+  </data>
+  <data name="idType" xml:space="preserve">
+    <value>ID Tipi</value>
+  </data>
+  <data name="imageHyperlink" xml:space="preserve">
+    <value>Görsel Linki</value>
+  </data>
+  <data name="inHouseProduction" xml:space="preserve">
+    <value>Dahili Üretim</value>
+  </data>
+  <data name="inventoryNo" xml:space="preserve">
+    <value>Envanter Numarası</value>
+  </data>
+  <data name="inventoryNumber" xml:space="preserve">
+    <value>Envanter Numarası</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="loaned" xml:space="preserve">
+    <value>Ödünç Verildi</value>
+  </data>
+  <data name="loanedOwnerSite" xml:space="preserve">
+    <value>Ödünç Alınan Yer</value>
+  </data>
+  <data name="loanedReturnDate" xml:space="preserve">
+    <value>Ödünç Dönüş Tarihi</value>
+  </data>
+  <data name="modified" xml:space="preserve">
+    <value>Değiştirildi</value>
+  </data>
+  <data name="modifiedBy" xml:space="preserve">
+    <value>Deqiştiren</value>
+  </data>
+  <data name="newEquipmentButton" xml:space="preserve">
+    <value>Yeni Ekipman</value>
+  </data>
+  <data name="priceHyperlink" xml:space="preserve">
+    <value>Fiyat Linki</value>
+  </data>
+  <data name="relatedDocsHyperlink" xml:space="preserve">
+    <value>İlgili Dokümanın Linki</value>
+  </data>
+  <data name="save" xml:space="preserve">
+    <value>KAYDET</value>
+  </data>
+  <data name="serialNumber" xml:space="preserve">
+    <value>Seri Numarası</value>
+  </data>
+  <data name="sharedProjects" xml:space="preserve">
+    <value>Paylaşılan Projeler</value>
+  </data>
+  <data name="status" xml:space="preserve">
+    <value>Statü</value>
+  </data>
+  <data name="update" xml:space="preserve">
+    <value>GÜNCELLE</value>
+  </data>
+  <data name="updateButton" xml:space="preserve">
+    <value>Seçilen Veriyi Güncelle</value>
+  </data>
+  <data name="userGuide" xml:space="preserve">
+    <value>Kullanıcı Rehberi</value>
+  </data>
+</root>
